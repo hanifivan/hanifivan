@@ -17,9 +17,12 @@ Uygulamalı ekonometri ve iktisadi modelleme üzerine çalışıyorum. Panel ve 
 - Determinants of the Levels of Development Based on the Human Development Index: Bayesian Ordered Probit Model
 - Analysis of the Factors Which Affect Financial Failure and Bankruptcy with Generalized Ordered Logit Model
 
-## Öne çıkan çalışma
+## Öne çıkan çalışmalar
 
 - **[Kantil Regresyon İnteraktif Ders Notu](https://hanifivan.github.io)** — Kantil regresyonu adım adım anlatan, tarayıcıda çalışan interaktif bir öğretim materyali.
+- **[En Küçük Kareler Tahmin Edicilerinin Özellikleri](https://hanifivan.github.io/ekk-ozellikleri/)**: EKK tahmin edicilerinin özelliklerini Monte Carlo benzetimleriyle anlatan interaktif ders notu.
+- **[Veri Analizi: İstatistik 1. Bölüm](https://hanifivan.github.io/veri-analizi/)**: Temel kavramlar ve verinin düzenlenmesi, sunum modlu etkileşimli ders notu.
+- **[Ekonometri II: Model Seçimi](https://hanifivan.github.io/model-secimi/)**: Tanımlama hataları, RESET, Hausman, ölçme hataları ve model seçim testleri; canlı hesaplamalı ders notu.
 
 ## Bağlantılar
 
